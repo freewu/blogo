@@ -16,3 +16,13 @@ blog server 内置一个server服务预览
 5 内部编辑器
 6 独立处理单个件(md => html)
 ```
+
+## 项目目录
+```
+_posts/         存放md文件
+output/         生成的html文件
+templates/      模板文件
+    default     默认的模板
+widgets/        挂件存放目录
+blogo.yml       项目配置文件
+```
