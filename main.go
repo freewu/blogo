@@ -4,7 +4,8 @@ import (
 	"flag"
 	"fmt"
 
-	"./cmd"
+	//"./cmd"
+	"github.com/freewu/blogo/cmd"
 )
 
 func main() {
